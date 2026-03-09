@@ -1,0 +1,3 @@
+﻿  1.cpp
+C:\Users\yuntc\OneDrive\Desktop\proga\self_study\leetcode\search insert position\1.cpp(41,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  search insert position.vcxproj -> C:\Users\yuntc\OneDrive\Desktop\proga\self_study\leetcode\search insert position\x64\Debug\search insert position.exe

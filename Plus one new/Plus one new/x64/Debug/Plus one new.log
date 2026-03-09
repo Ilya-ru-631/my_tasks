@@ -1,0 +1,3 @@
+﻿  Plus one new.cpp
+C:\Users\yuntc\OneDrive\Desktop\proga\self_study\leetcode\Plus one new\Plus one new.cpp(8,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Plus one new.vcxproj -> C:\Users\yuntc\OneDrive\Desktop\proga\self_study\leetcode\Plus one new\x64\Debug\Plus one new.exe

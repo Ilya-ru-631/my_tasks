@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="remove duplicates.vcxproj" Id="f94ee828-b387-4660-b971-0fd823999ae0" />
+</Solution>

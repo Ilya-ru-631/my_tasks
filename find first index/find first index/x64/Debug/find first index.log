@@ -1,0 +1,4 @@
+﻿  1.cpp
+C:\Users\yuntc\OneDrive\Desktop\proga\self_study\leetcode\find first index\1.cpp(10,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\yuntc\OneDrive\Desktop\proga\self_study\leetcode\find first index\1.cpp(11,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  find first index.vcxproj -> C:\Users\yuntc\OneDrive\Desktop\proga\self_study\leetcode\find first index\x64\Debug\find first index.exe

@@ -1,0 +1,3 @@
+﻿  1.cpp
+C:\Users\yuntc\OneDrive\Desktop\proga\self_study\leetcode\Length of Last Word\1.cpp(30,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Length of Last Word.vcxproj -> C:\Users\yuntc\OneDrive\Desktop\proga\self_study\leetcode\Length of Last Word\x64\Debug\Length of Last Word.exe
